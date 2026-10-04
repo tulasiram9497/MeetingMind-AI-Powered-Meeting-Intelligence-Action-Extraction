@@ -1,0 +1,1 @@
+ACTION_ITEM_PROMPT = """Extract action items from the transcript. Return JSON with task, assignee, deadline, priority, evidence. If fields are not explicit, use 'Unassigned', 'Not specified', and 'medium'."""
